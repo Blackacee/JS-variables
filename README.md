@@ -1,0 +1,2 @@
+# JS-variables
+Variable definition 
