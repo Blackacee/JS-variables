@@ -1,2 +1,4 @@
 # JS-variables
-Variable definition 
+//Variable definition 
+
+var myVariable = "This is a variable!";
